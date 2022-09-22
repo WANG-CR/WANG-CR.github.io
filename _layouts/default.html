@@ -8,11 +8,7 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
-    {% include footer.html %}
     {% include head/custom.html %}
-    {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
   </head>
 
   <body>
@@ -22,7 +18,14 @@ layout: compress
 
     {{ content }}
 
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
     {% include scripts.html %}
-  <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279642096'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279642096%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+
   </body>
 </html>
