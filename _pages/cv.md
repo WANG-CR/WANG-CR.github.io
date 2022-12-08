@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in System Engineering, Beihang University　　　　　　　　　　　　　　　&nbsp;Aug 2020 - July 2022 (expected)
+* M.S. in System Engineering, Beihang University　　　　　　　　　　　　　　　&nbsp;Aug 2020 - July 2022
 * Generalist Engineer (= Master of Engineering), Centrale Lille　　　　　　　　　&nbsp;&nbsp;Aug 2018 - July 2020    
 * B.S. in Mathematics and Applied Mathematics, Beihang University　　　　　　　Aug 2015 - July 2018
 
