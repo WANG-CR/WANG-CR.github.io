@@ -17,9 +17,7 @@ I am currently looking for a PhD's research position. Please check my [CV](/file
 Research Interests
 ======
 
-My current research mainly focus on **Natural Language Processing**, especially on **Relation Extraction**, **Knowledge Graph Embedding** and **Retrieval QA**.
-
-I am prospectively interested in **Graph Representation Learning** and **Large Scale Optimization**, and in further researches on the listed topics as well: knowledge graph construction, knowledge graph reasoning, drug discovery and protein structure prediction.
+My research interests lie at the intersection of **generative models**, **geometric deep learning**, **graph representation learning**, and **drug discovery**.
 
 
 Awards
