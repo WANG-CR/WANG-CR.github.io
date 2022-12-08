@@ -12,7 +12,7 @@ redirect_from:
 
 Email: chuanrui.wang [at] mila [dot] quebec
 
-[Github](https://github.com/wang-cr)| [Google Scholar](https://github.com/wang-cr](https://scholar.google.com/citations?user=QziSsnIAAAAJ&hl=en&oi=ao)
+[Github](https://github.com/wang-cr)| [Google Scholar](https://scholar.google.com/citations?user=QziSsnIAAAAJ&hl=en&oi=ao)
 
 
 My name is Chuanrui Wang, a Master's student at Beihang University. I am majoring in System Engineering and supervised by [Prof Wenge Rong](https://wgrong.github.io/) & [Prof Yuanxin Ouyang](http://scse.buaa.edu.cn/info/1078/7375.htm). 
