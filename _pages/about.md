@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+(personal page outdated)
+
+
 My name is Chuanrui Wang, a Master's student at Beihang University. I am majoring in System Engineering and supervised by [Prof Wenge Rong](https://wgrong.github.io/) & [Prof Yuanxin Ouyang](http://scse.buaa.edu.cn/info/1078/7375.htm). 
 
 During my undergraduate period in Beihang University, with an outstanding academic performance (rank 8th/120), I was selected to participate in an exchange program to l’Ecole Centrale de Lille in France and study there for 2 years.
