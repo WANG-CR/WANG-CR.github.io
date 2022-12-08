@@ -14,7 +14,7 @@ description              : &description "M.Science Student at Beihang University
 url                      : https://wang-cr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wang-cr.github.io"
-teaser                   : #"/images/profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/images/profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Chuanrui Wang"
-  avatar           : "profil.png"
+  avatar           : "profile.jpg"
   bio              : "M.Science Student at Beihang University "
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=JMHsqIkAAAAJ&hl=en"
-  email            : "buaa_wcr@buaa.edu.c"
+  email            : "chuanrui.wang@mila.quebec"
   researchgate     : #"https://www.researchgate.net/profile/Fuzhao_Xue"
   uri              :
   bitbucket        :
