@@ -9,7 +9,7 @@
 locale                   : "zh-Chinese"
 title                    : "Wang Chuanrui"
 title_separator          : "-"
-name                     : &name "Wang Chuanrui"
+name                     : &name "Chuanrui Wang"
 description              : &description "Research M.S. Student in Machine Learning"
 url                      : https://wang-cr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chuanrui Wang"
   avatar           : "profile.jpg"
-  bio              : "M.Science Student at Beihang University "
-  location         : "Beijing, China"
+  bio              : "M.Science Student at Mila "
+  location         : "Montreal, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=JMHsqIkAAAAJ&hl=en"
-  email            : "chuanrui.wang@mila.quebec"
+  googlescholar    : "https://scholar.google.com/citations?user=QziSsnIAAAAJ&hl=en"
+  email            : #"chuanrui.wang@mila.quebec"
   researchgate     : #"https://www.researchgate.net/profile/Fuzhao_Xue"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"wangchunshu"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
