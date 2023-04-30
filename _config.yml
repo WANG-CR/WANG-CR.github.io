@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-Chinese"
-title                    : "Wang Chuanrui"
+title                    : "Chuanrui Wang 王传睿"
 title_separator          : "-"
 name                     : &name "Chuanrui Wang"
 description              : &description "Research M.S. Student in Machine Learning"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chuanrui Wang"
   avatar           : "profile.jpg"
-  bio              : "M.Science Student at Mila "
+  bio              : "Msc student at Mila "
   location         : "Montreal, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
