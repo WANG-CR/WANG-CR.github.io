@@ -47,28 +47,20 @@ News
 
 Publications
 =====
-* \[Protein Sequence and Structure Co-Design with Equivariant Translation](https://arxiv.org/abs/2210.08761)
-
-Chence_Shi, **Chuanrui Wang**, Jiarui Lu, Bozitao Zhong, Jian Tang
-
+* [Protein Sequence and Structure Co-Design with Equivariant Translation](https://arxiv.org/abs/2210.08761)\
+Chence_Shi, **Chuanrui Wang**, Jiarui Lu, Bozitao Zhong, Jian Tang\
 *ICLR 2023*
 
-* \[KnowReQA: A Knowledge-aware Retrieval Question Answering System](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_54)
-
-**Chuanrui Wang**, Jun Bai, Xiaofeng Zhang, Cen Yan, Yuanxin Ouyang, Wenge Rong, Zhang Xiong
-
+* [KnowReQA: A Knowledge-aware Retrieval Question Answering System](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_54)\
+**Chuanrui Wang**, Jun Bai, Xiaofeng Zhang, Cen Yan, Yuanxin Ouyang, Wenge Rong, Zhang Xiong\
 *KSEM 2022*
 
-* \[Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/abs/2110.14883)
-
-Zhengda Bian, Hongxin Liu, Boxiang Wang, Haichen Huang, Yongbin Li, **Chuanrui Wang**, Fan Cui, Yang You
-
+* [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/abs/2110.14883)\
+Zhengda Bian, Hongxin Liu, Boxiang Wang, Haichen Huang, Yongbin Li, **Chuanrui Wang**, Fan Cui, Yang You\
 *arXiv preprint*
 
-* \[A new mesh smoothing method based on a neural network](https://link.springer.com/article/10.1007/s00466-021-02097-z)
-
-Yufei Guo, **Chuanrui Wang**, Zhe Ma, Xuhui Huang, Kewu Sun, Rongli Zhao
-
+* [A new mesh smoothing method based on a neural network](https://link.springer.com/article/10.1007/s00466-021-02097-z)\
+Yufei Guo, **Chuanrui Wang**, Zhe Ma, Xuhui Huang, Kewu Sun, Rongli Zhao\
 *Computational Mechanics, 2022*
 
 <!-- Awards
