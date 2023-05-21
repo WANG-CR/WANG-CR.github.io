@@ -14,7 +14,7 @@ redirect_from:
 <!-- [Github](https://github.com/wang-cr)    /    [Google Scholar](https://scholar.google.com/citations?user=QziSsnIAAAAJ&hl=en&oi=ao) -->
 
 
-I am a first-year master student at [Mila - Québec AI Institute](https://mila.quebec/) supervised by Prof. [Jian Tang](https://jian-tang.com/). Prior to this, I earned a master's degree in System Engineering from the Sino-French Engineering School at Beihang University, where I was supervised by [Prof Wenge Rong](https://wgrong.github.io/) & [Prof Yuanxin Ouyang](http://scse.buaa.edu.cn/info/1078/7375.htm). Additionally, I hold a general engineering diploma from [École Centrale de Lille](https://centralelille.fr/) in France. 
+I am a first-year master student at [Mila - Québec AI Institute](https://mila.quebec/) supervised by Prof. [Jian Tang](https://jian-tang.com/). Prior to this, I earned a master's degree in System Engineering from the Sino-French Engineering School at Beihang University, where I was supervised by [Prof Wenge Rong](https://wgrong.github.io/) & [Prof Yuanxin Ouyang](http://scse.buaa.edu.cn/info/1078/7375.htm). Additionally, I have earned a diplôme d'ingénieur from [l'École Centrale de Lille](https://centralelille.fr/) in France. 
 
 <!-- Additionally, I hold a general engineering diploma from École Centrale de Lille in France. -->
 
