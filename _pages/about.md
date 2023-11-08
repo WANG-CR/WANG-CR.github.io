@@ -24,7 +24,7 @@ My name is Chuanrui Wang, a Master's student at Beihang University. I am majorin
 
 During my undergraduate period in Beihang University, with an outstanding academic performance (rank 8th/120), I was selected to participate in an exchange program to l’Ecole Centrale de Lille in France and study there for 2 years. -->
 
-I am currently looking for a PhD's research position. Please check my [CV](/files/CS.pdf) for further information.
+I am currently looking for a PhD's research position. Please check my [CV](/files/CV_PhD_apply.pdf) for further information.
 
 Email: chuanrui.wang [at] mila [dot] quebec
 
