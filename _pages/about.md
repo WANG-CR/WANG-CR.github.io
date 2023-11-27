@@ -30,8 +30,8 @@ Email: chuanrui.wang [at] mila [dot] quebec
 
 
 <br/><br/>
-Research Interests
-======
+
+# Research Interests
 
 My research interests lie at the intersection of **generative models** and **scientific discovery**, with a particular focus on complex structured data such as protein data.
 
@@ -39,8 +39,9 @@ My research interests lie at the intersection of **generative models** and **sci
 
 
 <br/><br/>
-News
-=====
+
+# News
+<!-- ===== -->
 
 * \[**Nov 2023**] Attending NeurIPS in New Orleans. Will be presentating the PDB-Struct paper in AI for Drug Discovery workshop!
 * \[**May 2023**] Incoming poster session about our [Protseed paper](https://openreview.net/pdf?id=pRCMXcfdihq) at the ICLR conference!
@@ -48,8 +49,9 @@ News
 
 
 <br/><br/>
-Publications
-=====
+
+# Publications
+<!-- ===== -->
 * PDB-Struct: A Comprehensive Benchmark for Structure-based Protein Design\
 **Chuanrui Wang**, Bozitao Zhong, Zuobai Zhang, Narendra Chaudhary, Sanchit Misra, Jian Tang\
 *Neurips 2023 workshops* on AI for Drug Discovery/Machine Learning in Structural Biology
@@ -85,8 +87,9 @@ Yufei Guo, **Chuanrui Wang**, Zhe Ma, Xuhui Huang, Kewu Sun, Rongli Zhao\
 
 
 <br/><br/>
-Personal information
-------
+
+# Personal information
+<!-- ------ -->
 * I am an avid sports enthusiast who enjoys playing football and swimming.
 
 * I also take pleasure in watching movies.
