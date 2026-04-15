@@ -26,7 +26,7 @@ During my undergraduate period in Beihang University, with an outstanding academ
 
 I am currently looking for a PhD's position. Please check my [CV](/files/CV_PhD_apply.pdf) for further information.
 
-Email: chuanrui.wang [at] mila [dot] quebec
+Email: wangchuanrui [at] westlake [dot] edu [dot] cn
 
 
 <br/><br/>
